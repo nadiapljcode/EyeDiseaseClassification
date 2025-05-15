@@ -39,9 +39,8 @@ A deep learning project for classifying various retinal diseases from fundus ima
 
 
 ### Training Accuracy and Loss Curves
+<img width="438" alt="image" src="https://github.com/user-attachments/assets/1d42ee69-9655-498a-abbd-3baccc9659dc" />
 
-
-(Replace above images with your actual project screenshots)
 
 ## 🚀 Getting Started
 - Clone the repository rflow numpy pandas matplotlib seaborn scikit-learn
