@@ -1,8 +1,6 @@
 # EyeDiseaseClassification
 A deep learning project for classifying various retinal diseases from fundus images using Convolutional Neural Networks (CNNs). This project employs image augmentation techniques and a custom CNN architecture optimized with the Adam optimizer and valid padding. The goal is to support early diagnosis by accurately identifying different retinal conditions. Here we have compared the proposed model with an existing models that use SGD Optimization and Adam Optimization<br>
 <br>
-For better readability please refer file titled `EyeDeepNet.html`.
-
 ## 📌 Features
 - Multi-class classification of retinal diseases from eye images
 - Data augmentation techniques to improve model generalization
