@@ -17,10 +17,10 @@ A deep learning project that classifies various retinal diseases from fundus ima
 
 ## 📁 Project Structure
 retinal_classification_final.ipynb – Jupyter Notebook with full workflow (data preprocessing, model building, training, evaluation)
-- Dataset/ – Dataset folder with images sorted by disease classes
-- SelectedImages/ - Consists of folders each representative of classes ( ODC, DR, MH, Normal)
-- model/ – Saved model weights and checkpoints
-- testImages/ - Contains images that will test the performance of model
+- `Dataset/` – Dataset folder with images sorted by disease classes
+- `SelectedImages/` - Consists of folders each representative of classes ( ODC, DR, MH, Normal)
+- `model/` – Saved model weights and checkpoints
+- `testImages` - Contains images that will test the performance of model
 
 ## 🚀 Getting Started
 - Clone the repository rflow numpy pandas matplotlib seaborn scikit-learn
