@@ -1,5 +1,5 @@
 # EyeDiseaseClassification
-A deep learning project that classifies various retinal diseases from fundus images using Convolutional Neural Networks (CNNs). This project leverages image augmentation and CNN architecture to assist in early diagnosis by accurately identifying retinal conditions.
+A deep learning project for classifying various retinal diseases from fundus images using Convolutional Neural Networks (CNNs). This project employs image augmentation techniques and a custom CNN architecture optimized with the Adam optimizer and valid padding. The goal is to support early diagnosis by accurately identifying different retinal conditions.
 
 ## 📌 Features
 - Multi-class classification of retinal diseases from eye images
@@ -21,6 +21,8 @@ retinal_classification_final.ipynb – Jupyter Notebook with full workflow (data
 - `SelectedImages/` - Consists of folders each representative of classes ( ODC, DR, MH, Normal)
 - `model/` – Saved model weights and checkpoints
 - `testImages` - Contains images that will test the performance of model
+- `requirements.txt` - List of modules required
+- `EyeDeepNet.ipynb` - Python Notebook consisting of the code for classification of retinal diseases
 
 ## 🚀 Getting Started
 - Clone the repository rflow numpy pandas matplotlib seaborn scikit-learn
