@@ -16,13 +16,30 @@ A deep learning project for classifying various retinal diseases from fundus ima
 - Scikit-learn
 
 ## 📁 Project Structure
-retinal_classification_final.ipynb – Jupyter Notebook with full workflow (data preprocessing, model building, training, evaluation)
 - `Dataset/` – Dataset folder with images sorted by disease classes
 - `SelectedImages/` - Consists of folders each representative of classes ( ODC, DR, MH, Normal)
 - `model/` – Saved model weights and checkpoints
 - `testImages` - Contains images that will test the performance of model
 - `requirements.txt` - List of modules required
-- `EyeDeepNet.ipynb` - Python Notebook consisting of the code for classification of retinal diseases
+- `EyeDeepNet.ipynb` - Jupyter Notebook with full workflow (data preprocessing, model building, training, evaluation)
+
+## 🛠️ Architecture
+![image](https://github.com/user-attachments/assets/d2dd09ee-5c02-42c1-a03c-9374413d6b5b)
+
+
+## 📊 Sample Visualizations
+### Confusion Matrix
+<img width="381" alt="image" src="https://github.com/user-attachments/assets/a90d5c12-41cb-4adb-93f0-366f02c9c327" />
+### Confusion Matrix
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/c6adf045-5a2b-4c77-b233-63353521265d" />
+### Confusion Matrix
+![image](https://github.com/user-attachments/assets/5727dd8d-f3db-44f7-a4c9-1c46952f9645)
+
+
+### Training Accuracy and Loss Curves
+
+
+(Replace above images with your actual project screenshots)
 
 ## 🚀 Getting Started
 - Clone the repository rflow numpy pandas matplotlib seaborn scikit-learn
@@ -31,11 +48,4 @@ retinal_classification_final.ipynb – Jupyter Notebook with full workflow (data
 - Train the CNN model on the dataset
 - Evaluate the model’s performance with metrics and confusion matrix visualization
 
-## 📊 Sample Visualizations
-### Confusion Matrix
 
-
-### Training Accuracy and Loss Curves
-
-
-(Replace above images with your actual project screenshots)
