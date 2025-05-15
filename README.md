@@ -1,5 +1,5 @@
 # EyeDiseaseClassification
-A deep learning project for classifying various retinal diseases from fundus images using Convolutional Neural Networks (CNNs). This project employs image augmentation techniques and a custom CNN architecture optimized with the Adam optimizer and valid padding. The goal is to support early diagnosis by accurately identifying different retinal conditions.
+A deep learning project for classifying various retinal diseases from fundus images using Convolutional Neural Networks (CNNs). This project employs image augmentation techniques and a custom CNN architecture optimized with the Adam optimizer and valid padding. The goal is to support early diagnosis by accurately identifying different retinal conditions. Here we have compared the proposed model with an existing models that use SGD Optimization and Adam Optimization
 
 ## 📌 Features
 - Multi-class classification of retinal diseases from eye images
@@ -28,13 +28,13 @@ A deep learning project for classifying various retinal diseases from fundus ima
 
 
 ## 📊 Sample Visualizations
-### Confusion Matrix
+### Confusion Matrix of Eyenet with SGD Optmizer
 <img width="381" alt="image" src="https://github.com/user-attachments/assets/a90d5c12-41cb-4adb-93f0-366f02c9c327" />
 
-### Confusion Matrix
+### Confusion Matrix of Eyenet with Adam Optimizer
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/c6adf045-5a2b-4c77-b233-63353521265d" />
 
-### Confusion Matrix
+### Confusion Matrix of Proposed Model with Adam Optimizer and Valid Padding
 ![image](https://github.com/user-attachments/assets/5727dd8d-f3db-44f7-a4c9-1c46952f9645)
 
 
@@ -43,7 +43,7 @@ A deep learning project for classifying various retinal diseases from fundus ima
 
 
 ## 🚀 Getting Started
-- Clone the repository rflow numpy pandas matplotlib seaborn scikit-learn
+- Clone the repository
 - Run the notebook:
     - Execute step-by-step cells for data preprocessing and augmentation
 - Train the CNN model on the dataset
