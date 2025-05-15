@@ -31,10 +31,10 @@ For better readability please refer file titled `EyeDeepNet.html`.
 
 ## 📊 Sample Visualizations
 ### Confusion Matrix of Eyenet with SGD Optmizer
-<img width="381" alt="image" src="https://github.com/user-attachments/assets/a90d5c12-41cb-4adb-93f0-366f02c9c327" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a90d5c12-41cb-4adb-93f0-366f02c9c327" />
 
 ### Confusion Matrix of Eyenet with Adam Optimizer
-<img width="404" alt="image" src="https://github.com/user-attachments/assets/c6adf045-5a2b-4c77-b233-63353521265d" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c6adf045-5a2b-4c77-b233-63353521265d" />
 
 ### Confusion Matrix of Proposed Model with Adam Optimizer and Valid Padding
 ![image](https://github.com/user-attachments/assets/5727dd8d-f3db-44f7-a4c9-1c46952f9645)
