@@ -4,7 +4,7 @@ A deep learning project for classifying various retinal diseases from fundus ima
 ## 📌 Features
 - Multi-class classification of retinal diseases from eye images
 - Data augmentation techniques to improve model generalization
-- Custom CNN architecture built with Keras and TensorFlow
+- Custom CNN architecture built with Keras
 - Performance evaluation using accuracy, precision, recall, F1-score, and confusion matrix
 - Visualization of model training progress and confusion matrix using Matplotlib and Seaborn
 
