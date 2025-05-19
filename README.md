@@ -38,7 +38,7 @@ A deep learning project for classifying various retinal diseases from fundus ima
 ![image](https://github.com/user-attachments/assets/5727dd8d-f3db-44f7-a4c9-1c46952f9645)
 
 
-### Training Accuracy and Loss Curves
+### Comparison
 <img width="438" alt="image" src="https://github.com/user-attachments/assets/1d42ee69-9655-498a-abbd-3baccc9659dc" />
 
 
