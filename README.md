@@ -10,7 +10,7 @@ A deep learning project for classifying various retinal diseases from fundus ima
 
 ## ⚙️ Tech Stack
 - Python 3.7
-- TensorFlow & Keras
+- Keras
 - NumPy, Pandas
 - Matplotlib, Seaborn
 - Scikit-learn
